@@ -1,0 +1,122 @@
+  
+a:hover {
+  background-color: orangered;
+}
+body {background-image: url("https://www.copier-coller.com/wp-content/uploads/2015/03/2015-03-Life-of-Pix-free-stock-photos-laptop-desktop-plant-cup-leeroy-624x416.jpg");
+      text-align: center;
+      color: whitesmoke;
+      font-size: 15px;
+     }
+
+
+img {
+  width: 600px;
+  float: right;
+  border-radius: 50%;
+  opacity: 0.5;
+}
+
+input[type=text] {
+  border: 2px solid red;
+  border-radius: 4px;
+  margin: 8px;
+  padding: 30px 15px 30px 15px;
+  display: block;
+  color: blue;
+  align: top-left;
+  font-size: large;
+}
+  
+ .navbar {
+  padding: 5px;
+  background-color: greenyellow;
+  border-style: outset;
+  text-align: left;
+  color: white;
+  float: top;
+ margin: auto;
+  font-size: 14px;
+  list-style-type: left; 
+}
+.btn {
+  background-color: #4CAF50; /* Green */
+  border-radius: 20px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 30px;
+ 
+}
+.srch{
+  width: 200px;
+  height: 40px;
+  background: transparent;
+  border-radius; 20px;
+  margin-top: 10px; 
+}
+
+
+  select[name=gender] {
+   border: 2px solid red;
+   margin: 8px;
+   padding: 8px;
+
+ }
+
+
+h1   {color: #972121;}
+h3   {color: #972121;}
+h2   {color: #ff00a1;}
+
+ a {border-style: outset;
+    margin: 20px;
+    color: darkred;
+    font-size: 20px;
+ 
+  }
+.h {
+   display: inline;
+   
+ }
+ .navbar ul {
+   display: flex;
+   float: inherit;
+   list-style-type: none;
+   margin: auto-flow;
+   padding: auto;
+   overflow: hidden;
+ }
+ 
+.ul {
+  text-align: center;
+  color: whitesmoke;
+  list-style-type: none;
+}
+input[placeholder] {
+  text-align: center;
+} 
+ ol {
+   list-style-type: none;
+   background: #9fc1ae;
+ } 
+
+ul{
+  list-style-type: none;
+}
+.footer {
+ color: whitesmoke 
+   }
+.style {
+  width: 100px;
+ height: 100px;
+}
+.fa {
+  padding: 10px;
+  font: size 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px
+}
